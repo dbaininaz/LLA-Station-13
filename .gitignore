@@ -11,3 +11,5 @@
 *.lk
 *.int
 /data/**/*
+config/admins.txt
+DroneStateExport4head.dmi
